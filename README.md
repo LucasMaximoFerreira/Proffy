@@ -12,3 +12,6 @@ yarn start
 ```
 
 ## MOBILE
+```
+yarn start
+```
