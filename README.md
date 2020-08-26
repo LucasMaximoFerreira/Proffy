@@ -7,5 +7,8 @@ yarn start
 ```
 
 ## FRONT
+```
+yarn start
+```
 
 ## MOBILE
